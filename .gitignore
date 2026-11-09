@@ -1,0 +1,21 @@
+# Binarios y objetos de compilación C / C++
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDEs y Editores
+.vscode/
+.vs/
+.obsidian/
+*.swp
+*.bak
